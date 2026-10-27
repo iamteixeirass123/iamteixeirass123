@@ -6,10 +6,11 @@ Estudante de **Ciência da Computação** (4º semestre) em São Paulo/SP, apaix
 
 ### 💻 Minhas Tecnologias e Ferramentas
 
-- **Linguagens:** Python, C, JavaScript / Node.js
+- **Linguagens de programação:** Python, C, JavaScript / Node.js
 - **Em constante estudo:** Desenvolvimento Backend e Estruturas de Dados
-- **Banco de Dados & Ferramentas:** Git, GitHub
-
+- **Banco de Dados & Ferramentas:** Git, GitHub, SQL, Br Modelo
+- **Linguagens:** Inglês (intermediário) | Português (nativo)
+- **Pacote Office**: Word, PowerPoint, Excel
 ---
 
 ### 📬 Onde me encontrar
